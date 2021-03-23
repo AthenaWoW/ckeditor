@@ -1,11 +1,10 @@
 {
   "name": "athena-ckeditor",
   "author": "CKSource",
-  "description": "A custom CKEditor 5 build made by for Athena.",
+  "description": "A custom CKEditor 5 build for Athena.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": "https://github.com/AthenaWoW/ckeditor",
-  "private": true,
   "main": "./build/ckeditor.js",
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^26.0.0",
