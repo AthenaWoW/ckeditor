@@ -38,6 +38,7 @@ import Table from '@ckeditor/ckeditor5-table/src/table.js';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation.js';
 import Underline from '@ckeditor/ckeditor5-basic-styles/src/underline.js';
+import Enter from '@ckeditor/ckeditor5-enter/src/enter.js';
 
 class Editor extends ClassicEditor {}
 
@@ -54,6 +55,7 @@ Editor.builtinPlugins = [
 	CloudServices,
 	Code,
 	CodeBlock,
+	Enter,
 	Heading,
 	HorizontalLine,
 	Image,
