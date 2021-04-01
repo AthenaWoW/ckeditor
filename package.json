@@ -2,7 +2,7 @@
   "name": "athena-ckeditor",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build for Athena.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": "https://github.com/AthenaWoW/ckeditor",
   "main": "./build/ckeditor.js",
